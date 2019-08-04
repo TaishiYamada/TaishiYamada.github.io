@@ -1,4 +1,4 @@
-baseURL = "https://taishiyamada.github.io/"
+baseURL = "https://tripleat.github.io/TripleAtResume/"
 languageCode = "ja-jp"
 title = "YamadaTaishiResume"
 theme = "hugo-resume"

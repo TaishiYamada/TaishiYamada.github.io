@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C&#43;&#43; on YamadaTaishiResume</title>
-    <link>https://taishiyamada.github.io/tags/c&#43;&#43;/</link>
+    <link>https://tripleat.github.io/TripleAtResume/tags/c&#43;&#43;/</link>
     <description>Recent content in C&#43;&#43; on YamadaTaishiResume</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://taishiyamada.github.io/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tripleat.github.io/TripleAtResume/tags/c++/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>薩摩剣士隼人 ボッケモンバトラーズ(ゲーム)</title>
-      <link>https://taishiyamada.github.io/projects/creations/bokkemon/</link>
+      <link>https://tripleat.github.io/TripleAtResume/projects/creations/bokkemon/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://taishiyamada.github.io/projects/creations/bokkemon/</guid>
+      <guid>https://tripleat.github.io/TripleAtResume/projects/creations/bokkemon/</guid>
       <description>東京ゲームショウに映像出典までした作品。
 鹿児島のローカルテレビ局で放送されている薩摩剣士隼人との産学連携作品。
 一部のキャラの動作や、勝利画面、シナリオモードを担当。
