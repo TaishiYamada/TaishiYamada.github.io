@@ -2,6 +2,7 @@ baseURL = "https://taishiyamada.github.io/"
 languageCode = "ja-jp"
 title = "YamadaTaishiResume"
 theme = "hugo-resume"
+publishDir = "docs"
 
 
 [params]
