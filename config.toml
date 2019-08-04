@@ -3,6 +3,7 @@ languageCode = "ja-jp"
 title = "YamadaTaishiResume"
 theme = "hugo-resume"
 publishDir = "docs"
+canonifyurls = true
 
 
 [params]
