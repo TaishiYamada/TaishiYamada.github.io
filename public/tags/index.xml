@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on YamadaTaishiResume</title>
+    <link>https://taishiyamada.github.io/tags/</link>
+    <description>Recent content in Tags on YamadaTaishiResume</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://taishiyamada.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>https://taishiyamada.github.io/tags/c&#43;&#43;/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://taishiyamada.github.io/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct X</title>
+      <link>https://taishiyamada.github.io/tags/direct-x/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://taishiyamada.github.io/tags/direct-x/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GameDevelop</title>
+      <link>https://taishiyamada.github.io/tags/gamedevelop/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://taishiyamada.github.io/tags/gamedevelop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PC Game</title>
+      <link>https://taishiyamada.github.io/tags/pc-game/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://taishiyamada.github.io/tags/pc-game/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+[
+    {
+        "role":"Programmer",
+        "company":"株式会社ゲームスタジオ https://www.gamestudio.co.jp/",
+        "summary":"スマートフォンアプリのUIをメインで担当",
+        "range":"October 2017 - Present"
+    },
+    {
+        "role":"Developer",
+        "company":"株式会社オプティマ https://www.opt.co.jp/",
+        "summary":"新卒入社。社内パッケージ商品、社内受託、SESと多岐にわたる経験をした。\n出張での納品作業や運用保守故障対応、詳細設計、プログラミング、単体テスト、結合テスト、DB設計",
+        "range":"April 2015 - September 2017"
+    },
+    {
+        "role":"(アルバイト)Programmer",
+        "company":"Quail合同会社(当時名称) https://quail.co.jp/",
+        "summary":"Unityでの仮想試着の実装。3Dトラッキング部分やUIを担当",
+        "range":"July 2014 - March 2015"
+    },
+    {
+        "role":"(学生)Developer",
+        "company":"ゲーム制作サークル https://twitter.com/bokkemon_b",
+        "summary":"ボッケモンバトラーズ(ゲーム)などの作成。部長を務めた",
+        "range":"April 2012 - March 2015"
+    }
+]

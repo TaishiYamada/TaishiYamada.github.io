@@ -1,0 +1,22 @@
+[
+  {
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ "Java","C#","php","javascript","VB","C++","Unity","VisualStudio","SpringFramework","ZendFramework","git","subversion"]
+  },
+  {
+      "grouping":"Platform Development & Administration",
+      "skills":[ "Atlassian","Bitbucket","Github","NGINX","MySQL","Apache"]
+  },
+  {
+    "grouping":"Containers & Cloud",
+      "skills":[
+          {"name":"Docker","link":"https://docker.com"},
+          {"name":"AWS","link":"https://aws.amazon.com"},
+          {"name":"Linux","link":"https://bosh.io"}
+      ]
+  },
+  {
+      "grouping":"Certificate",
+      "skills":[ "? 弓道 1級","2012 情報検定情報活用試験3級","2012 全経簿記能力検定 3級","2013 情報処理技術者能力認定試験2級第2部", "2013 日商簿記検定3級", "2013 基本情報技術者","2013 Javaプログラミング能力認定試験2級","2017 応用情報技術者"]
+  }
+]
